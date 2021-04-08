@@ -1,0 +1,8 @@
+/work/06783/hslee21/stampede2/COE-347-SP21/of2/re110_1
+Sun Apr  4 23:32:20 CDT 2021
+blockMesh already run on /work/06783/hslee21/stampede2/COE-347-SP21/of2/re110_1: remove log file 'log.blockMesh' to re-run
+checkMesh already run on /work/06783/hslee21/stampede2/COE-347-SP21/of2/re110_1: remove log file 'log.checkMesh' to re-run
+decomposePar already run on /work/06783/hslee21/stampede2/COE-347-SP21/of2/re110_1: remove log file 'log.decomposePar' to re-run
+icoFoam already run on /work/06783/hslee21/stampede2/COE-347-SP21/of2/re110_1: remove log file 'log.icoFoam' to re-run
+reconstructPar already run on /work/06783/hslee21/stampede2/COE-347-SP21/of2/re110_1: remove log file 'log.reconstructPar' to re-run
+Sun Apr  4 23:32:20 CDT 2021

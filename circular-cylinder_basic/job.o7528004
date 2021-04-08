@@ -1,0 +1,6 @@
+/work/07965/clans/stampede2/COE-347-SP21/circular-cylinder
+Sun Apr  4 23:05:52 CDT 2021
+Running blockMesh on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder
+Running checkMesh on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder
+Running decomposePar on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder
+Running icoFoam in parallel on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder using 4 processes

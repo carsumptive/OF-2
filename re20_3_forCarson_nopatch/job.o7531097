@@ -1,0 +1,8 @@
+/work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_3_forCarson
+Mon Apr  5 12:33:37 CDT 2021
+Running blockMesh on /work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_3_forCarson
+Running checkMesh on /work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_3_forCarson
+Running decomposePar on /work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_3_forCarson
+Running icoFoam in parallel on /work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_3_forCarson using 8 processes
+Running reconstructPar on /work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_3_forCarson
+Mon Apr  5 12:36:20 CDT 2021

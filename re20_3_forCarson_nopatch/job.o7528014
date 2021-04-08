@@ -1,0 +1,6 @@
+/work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_1
+Sun Apr  4 23:10:00 CDT 2021
+blockMesh already run on /work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_1: remove log file 'log.blockMesh' to re-run
+checkMesh already run on /work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_1: remove log file 'log.checkMesh' to re-run
+Running icoFoam on /work/06783/hslee21/stampede2/COE-347-SP21/of2/section9_hsl/re20_1
+Sun Apr  4 23:16:21 CDT 2021

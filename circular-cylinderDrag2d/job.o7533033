@@ -1,0 +1,8 @@
+/work/07965/clans/stampede2/COE-347-SP21/circular-cylinder
+Mon Apr  5 18:56:48 CDT 2021
+blockMesh already run on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder: remove log file 'log.blockMesh' to re-run
+checkMesh already run on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder: remove log file 'log.checkMesh' to re-run
+Running decomposePar on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder
+icoFoam already run on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder: remove log file 'log.icoFoam' to re-run
+Running reconstructPar on /work/07965/clans/stampede2/COE-347-SP21/circular-cylinder
+Mon Apr  5 18:56:59 CDT 2021

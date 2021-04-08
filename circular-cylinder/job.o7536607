@@ -1,0 +1,6 @@
+/scratch/07965/clans/COE-347-SP21/circular-cylinder
+Tue Apr  6 13:39:12 CDT 2021
+blockMesh already run on /scratch/07965/clans/COE-347-SP21/circular-cylinder: remove log file 'log.blockMesh' to re-run
+checkMesh already run on /scratch/07965/clans/COE-347-SP21/circular-cylinder: remove log file 'log.checkMesh' to re-run
+icoFoam already run on /scratch/07965/clans/COE-347-SP21/circular-cylinder: remove log file 'log.icoFoam' to re-run
+Tue Apr  6 13:39:12 CDT 2021

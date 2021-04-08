@@ -1,0 +1,8 @@
+/scratch/07965/clans/COE-347-SP21/circular-cylinder
+Tue Apr  6 13:34:39 CDT 2021
+Running blockMesh on /scratch/07965/clans/COE-347-SP21/circular-cylinder
+Running checkMesh on /scratch/07965/clans/COE-347-SP21/circular-cylinder
+Running decomposePar on /scratch/07965/clans/COE-347-SP21/circular-cylinder
+Running icoFoam in parallel on /scratch/07965/clans/COE-347-SP21/circular-cylinder using 4 processes
+Running reconstructPar on /scratch/07965/clans/COE-347-SP21/circular-cylinder
+Tue Apr  6 13:34:48 CDT 2021
